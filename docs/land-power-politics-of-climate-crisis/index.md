@@ -1,5 +1,8 @@
-# Plesae note that this is a course under development
 # Land, Power, and the Politics of the Climate Crisis
+
+:::warning
+Please note that this is a course under development.
+:::
 
 ## Instructor Information
 
