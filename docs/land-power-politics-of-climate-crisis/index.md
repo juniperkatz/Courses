@@ -1,12 +1,7 @@
+# Plesae note that this is a course under development
 # Land, Power, and the Politics of the Climate Crisis
 
 ## Instructor Information
-
-- **Instructor:** [Your Name]
-- **Email:** [Your Email Address]
-- **Office Hours:** Thursdays, 11:00 AM–2:00 PM, Thompson Hall 636
-- **Class Schedule:** Tuesdays, 2:30–5:00 PM
-- **Location:** [Building/Room]
 
 ---
 
