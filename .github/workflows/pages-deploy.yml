@@ -21,19 +21,21 @@ jobs:
           cache-dependency-path: yarn.lock
 
       - name: Install dependencies
-        run: npm install
+        run: yarn install
 
       - name: Build website
-        run: npm run build
+        run: yarn build
 
       - name: Fix CNAME file
-        run: |
-          echo "courses.juniperkatz.com" > build/CNAME
+        run: echo "courses.juniperkatz.com" > build/CNAME
+
+      - name: List build output
+        run: ls -R build
 
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: docs/build
+          publish_dir: build
           user_name: github-actions[bot]
           user_email: 41898282+github-actions[bot]@users.noreply.github.com
