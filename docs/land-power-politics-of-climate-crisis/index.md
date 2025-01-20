@@ -1,6 +1,6 @@
 # Land, Power, and the Politics of the Climate Crisis
 
-## **Instructor Information**
+## Instructor Information
 
 - **Instructor:** [Your Name]
 - **Email:** [Your Email Address]
@@ -10,7 +10,7 @@
 
 ---
 
-## **Course Overview**
+## Course Overview
 
 **How can policymakers design effective solutions to complex environmental challenges in an era of climate urgency and political polarization?**
 
@@ -18,7 +18,7 @@ This course equips students with cutting-edge methods to systematically analyze 
 
 ---
 
-## **Learning Outcomes**
+## Learning Outcomes
 
 By the end of this course, students will be able to:
 
@@ -31,24 +31,24 @@ By the end of this course, students will be able to:
 
 ---
 
-## **Course Policies and Expectations**
+## Course Policies and Expectations
 
-### **Class Participation**
+### Class Participation
 
 - Active participation in class discussions and activities is essential. Be prepared to engage with the readings and contribute thoughtful insights.
 - Respectful dialogue and collaboration are expected at all times.
 
-### **Attendance Policy**
+### Attendance Policy
 
 Attendance is required for all scheduled class sessions. Absences for valid reasons (illness, emergencies) should be communicated in advance.
 
-### **Late Work Policy**
+### Late Work Policy
 
 Assignments submitted after the deadline will incur a penalty of 0.5 points per 24-hour period unless prior arrangements are made.
 
 ---
 
-## **Course Schedule**
+## Course Schedule
 
 | **Date and Week**            | **Topic**                                                              | **Readings**                                                                                     | **Activities**                                                                                                 | **Assignments**                                               |
 |-------------------------------|------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|
@@ -66,7 +66,7 @@ Assignments submitted after the deadline will incur a penalty of 0.5 points per 
 
 ---
 
-## **Grading and Evaluation**
+## Grading and Evaluation
 
 | **Assessment**              | **Weight** | **Description**                                                                                   |
 |-----------------------------|------------|---------------------------------------------------------------------------------------------------|
@@ -77,7 +77,7 @@ Assignments submitted after the deadline will incur a penalty of 0.5 points per 
 
 ---
 
-## **Grading Scale**
+## Grading Scale
 
 | **Letter Grade** | **Percentage Range** |
 |------------------|-----------------------|
@@ -94,28 +94,28 @@ Assignments submitted after the deadline will incur a penalty of 0.5 points per 
 
 ---
 
-## **University Policies**
+## University Policies
 
-### **Academic Honesty**
+### Academic Honesty
 Since the integrity of the academic enterprise of any institution of higher education requires honesty in scholarship and research, academic honesty is required of all students at the University of Massachusetts Amherst. Academic dishonesty is prohibited in all programs of the University. Academic dishonesty includes but is not limited to: cheating, fabrication, plagiarism, and facilitating dishonesty. Appropriate sanctions may be imposed on any student who has committed an act of academic dishonesty. Instructors should take reasonable steps to address academic misconduct. Any person who has reason to believe that a student has committed academic dishonesty should bring such information to the attention of the appropriate course instructor as soon as possible. Instances of academic dishonesty not related to a specific course should be brought to the attention of the appropriate department Head or Chair. Since students are expected to be familiar with this policy and the commonly accepted standards of academic integrity, ignorance of such standards is not normally sufficient evidence of lack of intent. For details, visit: [UMass Academic Honesty Policy](http://www.umass.edu/dean_students/codeofconduct/acadhonesty/).
 
 Academic integrity is the foundation of our academic community. Any form of academic dishonesty (e.g., plagiarism, cheating) will result in disciplinary action in accordance with university policies. For more details, visit: [UMass Academic Honesty Policy](http://www.umass.edu/dean_students/codeofconduct/acadhonesty/).
 
-### **Title IX Compliance**
+### Title IX Compliance
 In accordance with Title IX of the Education Amendments of 1972 that prohibits gender-based discrimination in educational settings that receive federal funds, the University of Massachusetts Amherst is committed to providing a safe learning environment for all students, free from all forms of discrimination, including sexual assault, sexual harassment, domestic violence, dating violence, stalking, and retaliation. This includes interactions in person or online through digital platforms and social media. Title IX also protects against discrimination on the basis of pregnancy, childbirth, false pregnancy, miscarriage, abortion, or related conditions, including recovery.
 
 There are resources here on campus to support you. A summary of the available Title IX resources (confidential and non-confidential) can be found at the following link: [UMass Title IX Resources](https://www.umass.edu/titleix/resources). You do not need to make a formal report to access them. If you need immediate support, you are not alone. Free and confidential support is available 24 hours a day / 7 days a week / 365 days a year at the SASA Hotline: 413-545-0800.
 
 UMass Amherst is committed to creating a learning environment free from gender-based discrimination, harassment, and violence. Resources are available at [UMass Title IX Resources](https://www.umass.edu/titleix/resources). Confidential support is available through the SASA Hotline: 413-545-0800.
 
-### **Accommodation Statement**
+### Accommodation Statement
 The University of Massachusetts Amherst is committed to providing an equal educational opportunity for all students. If you have a documented physical, psychological, or learning disability on file with Disability Services (DS), you may be eligible for reasonable academic accommodations to help you succeed in this course. If you have a documented disability that requires an accommodation, please notify me within the first two weeks of the semester so that we may make appropriate arrangements. For further information, please visit: [Disability Services](https://www.umass.edu/disability/).
 
 Students with documented disabilities who require accommodations should contact Disability Services as soon as possible to ensure appropriate arrangements are made. For more information, visit: [Disability Services](https://www.umass.edu/disability/).
 
 ---
 
-## **Contact Information and Support**
+## Contact Information and Support
 
 - **Writing Assistance:** [UMass Writing Center](https://www.umass.edu/writingcenter)
 - **Technical Support:** [IT Help Center](https://www.umass.edu/it/support)
